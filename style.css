@@ -1,0 +1,9 @@
+#box {
+   width: 700px;
+    height: 700px;
+    margin: 0 auto;
+    background: linear-gradient (#FFF, #000);
+    background:-webkit-linear-gradient (#FFF, #000);
+    background: -o-linear-gradient (#FFF, #000);
+    background: -moz-linear-gradient (#FFF, #000);
+} 

@@ -1,9 +1,18 @@
-#box {
-   width: 700px;
-    height: 700px;
+.examples {
+    height: 740px;
+    width: 1500px;
+    background: #F5CCB0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.one {
+    height: 300px;
+    width: 300px;
     margin: 0 auto;
-    background: linear-gradient (#FFF, #000);
-    background:-webkit-linear-gradient (#FFF, #000);
-    background: -o-linear-gradient (#FFF, #000);
-    background: -moz-linear-gradient (#FFF, #000);
-} 
+    background: linear-gradient(#FFF, #000);
+    background: -webkit-linear-gradient(#FFF, #000);
+    background: -o-linear-gradient(#FFF, #000);
+    background: -moz-linear-gradient(#FFF, #000);
+}

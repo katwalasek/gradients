@@ -36,5 +36,15 @@
     background: -o-radial-gradient(circle contain, #8E236B, #8F8FBD);
     background: -moz-radial-gradient(circle contain, #8E236B, #8F8FBD);
 }
+
+.four {
+     height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    background: linear-gradient(45deg, #CC00CC, #330033, #006064);
+    background: -webkit-linear-gradient(45deg, #CC00CC, #330033, #006064);
+    background: -o-linear-gradient(45deg, #CC00CC, #330033, #006064);
+    background: -moz-linear-gradient(45deg, #CC00CC, #330033, #006064);
+}
     
     

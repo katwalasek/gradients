@@ -27,6 +27,14 @@
     background: -moz-linear-gradient(left, #7093DB, #2F4F4F);
 }
 
-
+.three {
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background: radial-gradient(circle contain,#8E236B, #8F8FBD);
+    background: -webkit-radial-gradient(circle contain,#8E236B, #8F8FBD);
+    background: -o-radial-gradient(circle contain, #8E236B, #8F8FBD);
+    background: -moz-radial-gradient(circle contain, #8E236B, #8F8FBD);
+}
     
     

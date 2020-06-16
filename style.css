@@ -1,10 +1,18 @@
 .examples {
     height: 600px;
     width: 1500px;
-    background: #F5CCB0;
+    background-color: #F5CCB0;
     display: flex;
     justify-content: center;
     align-items: center;
+    
+}
+
+section {
+    background-color: #F5CCB0;
+    background-size: 600px 1500px;
+    background-image: linear-gradient(rgba(255,255,255, .7) 2%, transparent 8%, transparent);
+    
 }
 
 .one {
